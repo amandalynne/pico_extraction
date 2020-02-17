@@ -1,0 +1,12 @@
+###25299442:
+CONTEXT|A|Persistent muscle weakness after anterior cruciate ligament ( ACL ) reconstruction may be due to underlying activation failure and arthrogenic muscle inhibition ( AMI ) .
+CONTEXT|A|Knee-joint cryotherapy has been shown to improve quadriceps function transiently in those with AMI , thereby providing an opportunity to improve quadriceps muscle activation and strength in patients with a reconstructed ACL .
+OBJECTIVE|A|To compare quadriceps muscle function in patients with a reconstructed ACL who completed a @ intervention including daily cryotherapy ( ice bag ) , daily exercises , or both .
+DESIGN|M|Cross-sectional study .
+SETTING|M|Laboratory .
+PATIENTS OR OTHER PARTICIPANTS|P|A total of @ patients with reconstructed ACLs who were at least @ months post-index surgery and had measurable quadriceps AMI .
+INTERVENTION(S)|I|The patients attended @ supervised visits over a @ period .
+INTERVENTION(S)|I|They were randomly assigned to receive @ minutes of knee-joint cryotherapy , @ hour of therapeutic rehabilitation exercises , or cryotherapy followed by exercises .
+MAIN OUTCOME MEASURE(S)|O|We measured quadriceps Hoffmann reflex , normalized maximal voluntary isometric contraction torque , central activation ratio using the superimposed-burst technique , and patient-reported outcomes before and after the intervention period .
+RESULTS|R|After the @ intervention period , patients who performed rehabilitation exercises immediately after cryotherapy had higher normalized maximal voluntary isometric contraction torques ( P = @ , Cohen d effect size = @ ) compared with those who received cryotherapy alone ( P = @ , d = @ ) or performed exercise alone ( P = @ , d = @ ) .
+CONCLUSIONS|C|After ACL reconstruction , patients with AMI who performed rehabilitation exercises immediately after cryotherapy experienced greater strength gains than those who performed cryotherapy or exercises alone .
