@@ -9,7 +9,6 @@ pico_extraction/
 |- pico_extraction/  
 |---- dataset_readers/  
 |---- models/  
-|---- modules/  
 |---- predictors/  
 |- allennlp_config/  
 |- scripts/  
