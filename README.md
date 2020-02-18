@@ -3,6 +3,8 @@
 Code for extracting PICO elements from randomized control trial abstracts. 
 Built with AllenNLP and PyTorch.
 
+`master_script.py` launches the training and evaluation pipeline, but it will not actually run unless you have an account on [Beaker](beaker.org). 
+
 Repository structure:
 
 pico_extraction/  
