@@ -1,4 +1,4 @@
-# pico_extraction
+# PICO Extraction
 
 Code for extracting PICO elements from randomized control trial abstracts. 
 Built with AllenNLP and PyTorch.
