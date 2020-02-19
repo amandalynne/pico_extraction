@@ -17,4 +17,6 @@ pico_extraction/
 |- tests/  
 
 
-Note! This repository does not contain the data required to run an experiment. Download it at the following link: [EBM_NLP](https://github.com/bepnye/EBM-NLP)
+Note! This repository does not contain the data required to run an experiment. Download it at the following links:  
+[EBM_NLP](https://github.com/bepnye/EBM-NLP)
+[PICO PubMed](https://github.com/jind11/PubMed-PICO-Detection)
